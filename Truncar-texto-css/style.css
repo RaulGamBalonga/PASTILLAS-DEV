@@ -1,0 +1,8 @@
+p {
+    width: 500px;
+    border: 1 px solid black;
+    
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

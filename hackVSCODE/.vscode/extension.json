@@ -1,0 +1,7 @@
+
+{
+  "recommendations": ["ejemplo-de-extension-recomendapara-este-proyecto"],
+  "unwanatedRecommendations": [
+    "ejemplo-de-extension-que-no-recomiendas-para-este-proyecto"
+  ]
+}
