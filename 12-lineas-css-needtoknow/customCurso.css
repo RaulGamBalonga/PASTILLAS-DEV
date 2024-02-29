@@ -1,0 +1,8 @@
+:root {
+	--cursor: url("https://img.icons8.com/fluency/48/000000/heart-plus.png");
+}
+
+.btn-cursor {
+	width: 150px;
+	cursor: var(--cursor), auto;
+}
