@@ -1,0 +1,7 @@
+/* FILEPATH: /c:/Users/Usuario/Desktop/REPOSITORIOS/PASTILLAS-DEV/12-lineas-css-needtoknow/centerDIv.css */
+
+.center-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
